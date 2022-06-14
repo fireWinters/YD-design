@@ -1,20 +1,10 @@
-<!--
- * @Author: 唐王瑶
- * @Email：tangwangyao@hualala.com
- * @Date: 2022-06-10 21:05:32
- * @Description: 页面/组件/功能的描述
- * @FilePath: /YD-design/README.md
--->
 <div align="center">
   <h1>YD Design</h1>
 </div>
 
 <div align="center">
 
-A comprehensive React UI components library based on the [YD Design](https://YD.design/) system.
-
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/YD-design/YD-design/blob/main/LICENSE)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/YD-design/awesome-YD)
+A comprehensive React UI components library.
 
 </div>
 
@@ -90,8 +80,6 @@ ReactDOM.render(<App />, document.getElementById('app'));
 Developers interested in contributing should read the [Code of Conduct](./CODE_OF_CONDUCT.md) and the [Contributing Guide](./CONTRIBUTING.md).
 
 Thank you to all the people who already contributed to YDDesign!
-
-<a href="https://github.com/YD-design/YD-design/graphs/contributors"><img src="https://contrib.rocks/image?repo=YD-design/YD-design" /></a>
 
 # License
 

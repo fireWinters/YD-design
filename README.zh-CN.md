@@ -1,10 +1,3 @@
-<!--
- * @Author: 唐王瑶
- * @Email：tangwangyao@hualala.com
- * @Date: 2022-06-10 21:05:32
- * @Description: 页面/组件/功能的描述
- * @FilePath: /YD-design/README.zh-CN.md
--->
 <div align="center">
   <a href="https://YD.design" target="_blank">
     <img alt="YD Design Logo" width="200" src="https://avatars.githubusercontent.com/u/64576149?s=200&v=4"/>
@@ -17,7 +10,7 @@
 
 <div align="center">
 
-基于 [YD Design](https://YD.design/) 的 React UI 组件库。
+React UI 组件库。
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/YD-design/YD-design/blob/main/LICENSE)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/YD-design/awesome-YD)
